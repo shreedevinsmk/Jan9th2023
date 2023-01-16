@@ -1,0 +1,11 @@
+﻿table, th, td {
+  border: 5px double black;
+  color:red;
+  text-align:center;
+  caption{font-family:courier;}
+  
+}
+
+table {
+border-spacing: 50px;
+}

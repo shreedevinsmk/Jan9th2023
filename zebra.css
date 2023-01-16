@@ -1,0 +1,7 @@
+﻿table,td,th{
+	  border-collapse:collapse;
+	  padding:20px;
+     } 
+ tr{border-bottom:2px solid green;}     
+td:nth-child(even),th:nth-child(even){background-color:#D6EEEE;}
+caption{color:red;}
